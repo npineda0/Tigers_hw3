@@ -1,0 +1,49 @@
+.photoOne{
+    background-image: url(../TigerInfo/img/plushing.jpeg);
+    width: 150px;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 35px;
+    display: flex;
+}
+
+.InfoOne{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.plushOne{
+    display: flex;
+}
+
+.textOne{
+    padding: 5px;
+}
+
+.infoOne{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.photoTwo{
+    background-image: url(../TigerInfo/img/shopping.jpeg);
+    width: 150px;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 35px;
+}
+
+.shop{
+    padding: 5px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+ 
+}

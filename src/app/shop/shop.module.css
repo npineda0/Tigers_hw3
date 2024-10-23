@@ -1,0 +1,17 @@
+.shopHeader {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   font-size: 40px;
+
+   margin-top: 20px;
+}
+
+.shopRow{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}

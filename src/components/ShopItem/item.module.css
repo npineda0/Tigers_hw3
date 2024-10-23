@@ -1,0 +1,32 @@
+.tigerProduct {
+    height: 340px;
+    width: 300px;
+    padding: 0.5rem;
+}
+
+.tigerProduct:hover {    
+    border: 2px solid orange;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.tigerImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.tigerTxt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tigerName {
+    font-size: 20px;
+}
+
+.tigerPrice {
+    font-size: 18px;
+}
