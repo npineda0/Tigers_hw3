@@ -1,0 +1,45 @@
+.formBackground {
+    background-color: #ffa600ae;
+    height: 550px;
+    width: 550px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactHeader {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    /* margin-top: -10px; */
+    margin-bottom: 50px;
+}
+
+.contactInput {
+    border: none;
+    border-bottom: 2px solid white;
+    color: white;
+    background-color: #ffa60000;
+    margin-bottom: 60px;
+    width: 300px;
+}
+
+.contactInput::placeholder {
+    color: white;
+}
+
+.contactBtn {
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    margin-left: 100px;
+}
