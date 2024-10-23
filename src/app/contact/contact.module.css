@@ -53,3 +53,9 @@
     cursor: pointer;
     margin-left: 100px;
 }
+
+.contactMsg {
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+}

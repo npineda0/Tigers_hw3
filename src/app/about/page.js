@@ -12,7 +12,7 @@ export default function About() {
         Please View Our Shop to buy some of the plushies we currently are
         selling.
       </p>
-      <button className={AboutStyle.aboutButton}>View Show</button>
+      <button className={AboutStyle.aboutButton}>View Shop</button>
     </div>
   );
 }
