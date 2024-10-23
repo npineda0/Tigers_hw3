@@ -1,8 +1,18 @@
+.contactContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+/* .tigerImg {
+    margin-left: 50px;
+} */
+
 .formBackground {
     background-color: #ffa600ae;
     height: 550px;
     width: 550px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     margin-top: 50px;
     border-radius: 20px;
 
