@@ -11,10 +11,10 @@ export default function Nav() {
           <a href="/">About</a>
         </li>
         <li>
-          <a href="/">Shop</a>
+          <a href="shop">Shop</a>
         </li>
         <li>
-          <a href="/">Contact</a>
+          <a href="/contact">Contact</a>
         </li>
       </ul>
     </nav>
